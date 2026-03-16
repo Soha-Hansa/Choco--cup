@@ -28,7 +28,7 @@ This entire sophisticated web application was fully developed and engineered usi
 
 ## 🚀 Live Demo
 
-[🔥 Add your Netlify/Vercel URL here once deployed!]
+[🔥 https://cozy-cup-nine.vercel.app/]
 
 ## 🎯 Features
 
