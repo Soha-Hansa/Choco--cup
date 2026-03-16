@@ -46,6 +46,14 @@ This entire sophisticated web application was fully developed and engineered usi
 - **Icons:** [Lucide React](https://lucide.dev/)
 - **Language:** TypeScript
 
+## AI Tools
+[![Whisk](https://img.shields.io/badge/AI-Whisk-blue)]()
+[![Flow](https://img.shields.io/badge/AI-Flow-green)]()
+[![Gemini](https://img.shields.io/badge/AI-Gemini-purple)]()
+[![Antigravity](https://img.shields.io/badge/AI-Antigravity-orange)]()
+I use these tools to power automation, workflow optimization, and intelligent insights.
+
+
 ## 👨‍💻 About The Developer
 
 **Soha Hansa**
